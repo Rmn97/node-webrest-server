@@ -1,5 +1,8 @@
 
+/postgres
 
 node_modules/
 keys/
 .env
+
+dist/
